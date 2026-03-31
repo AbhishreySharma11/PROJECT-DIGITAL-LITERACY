@@ -1,0 +1,15 @@
+Dear Professor,
+
+My name is Abhishrey Sharma, and I am currently a Sophomore student pursuing a degree in Computer Science and Engineering at Global Institute of Technology. I have been following Lumina Tech’s work in cloud-based infrastructure, and I am very impressed by your recent initiatives in optimizing real-time data processing for small-scale enterprises.
+
+I am writing to express my strong interest in a summer internship opportunity with your Backend Engineering team. Through my coursework and independent projects—including practicing algorithmic problem-solving on HackerRank and developing automation scripts in Python—I have developed a solid foundation in Java, SQL, and REST API development. I am eager to apply these skills in a professional setting and contribute to the innovative work being done at Lumina Tech.
+
+I have attached my resume and a brief portfolio of my recent projects for your review. I would welcome the opportunity to discuss how my background and enthusiasm for scalable systems could benefit your team this summer.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+Abhishrey Sharma
++91 xxxxxxxxxx
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME  
