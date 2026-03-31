@@ -1,0 +1,25 @@
+'Stay Safe Online' Checklist - 
+
+1.Enable Two-Factor Authentication (2FA): Secure your University email, LinkedIn, and Instagram accounts with 2FA using an authenticator app rather than just SMS to prevent account takeovers.
+
+2.Verify UPI "Collect" Requests: Never enter your UPI PIN to receive money. If a stranger on a marketplace like OLX sends a request asking for your PIN, it is a scam to debit your account.
+
+3.Audit App Permissions: Regularly check your smartphone settings and revoke access to the microphone, contacts, or location for apps that don't strictly need them (e.g., a simple calculator or wallpaper app).
+
+4.Use Unique Passwords: Avoid using your date of birth or "123456" for bank or social media logins. Use a password manager to maintain unique, complex passphrases for every platform.
+
+5.Beware of "Job Offer" Scams: If you receive a WhatsApp message offering a high-paying part-time "Work from Home" job that requires an initial "registration fee" or "security deposit," block the number immediately.
+
+6.Secure Your Hardware: Never leave your laptop or phone unlocked in common areas like the library or canteen. Set a short "auto-lock" timer to prevent unauthorized access to your personal files.
+
+7.Check for "HTTPS" and Domain Spoofing: Before entering credentials on a college portal or scholarship site, ensure the URL starts with https:// and the spelling of the domain is correct (e.g., google.com vs go0gle.com).
+
+8.Limit Public Wi-Fi Usage: Avoid logging into your bank account or making UPI payments while connected to free public Wi-Fi in cafes or railway stations. Use a VPN or your mobile data for sensitive transactions.
+
+How to Report Cybercrime in India - 
+
+If you or a batchmate fall victim to a digital scam or online harassment, immediate reporting is critical to freezing fraudulent transactions and gathering evidence.
+
+Official Portal: Visit the National Cyber Crime Reporting Portal at cybercrime.gov.in.
+
+National Helpline: Call 1930 immediately to report financial fraud. This is the dedicated 24/7 helpline for the Citizen Financial Cyber Fraud Reporting

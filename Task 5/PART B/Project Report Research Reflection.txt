@@ -1,0 +1,6 @@
+Project Report: Research Reflection - 
+
+
+While researching the various layers of cybercrime, what surprised me most was the sheer sophistication of social engineering tactics used in UPI fraud. I initially assumed that technical hacking—like cracking a password—was the primary threat. However, I discovered that scammers rarely "break into" accounts; instead, they exploit human psychology by creating a false sense of urgency or trust. The fact that a victim can be convinced to voluntarily type their PIN to "receive" money highlights a significant gap in our collective digital literacy.
+
+As a result, the one habit I will personally change is my approach to App Permissions and Terms of Service. I used to blindly click "Allow" on every pop-up to save time. Now, I have started performing a weekly audit of my smartphone’s privacy settings. I am committed to revoking microphone, camera, and contact access for any application that does not strictly require them to function, ensuring my digital footprint remains as small and secure as possible.
